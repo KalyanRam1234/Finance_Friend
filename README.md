@@ -43,10 +43,10 @@ The bot works on certain commands which are to be prefixed by "!".
 * Once you are in the server and all the above librarires are available on your laptop:
 * Run the command:- python3 crypto.py
 * The above command will run the bot and the commands in the section(com) can be used!
-* [Screenshot from 2022-04-17 23-07-32](https://user-images.githubusercontent.com/70737554/163726021-3da92d7f-4a02-47e4-bf3e-8f27f9bc71db.png)
-* 
-![Screenshot from 2022-04-17 23-07-42](https://user-images.githubusercontent.com/70737554/163726031-f6a57742-44f0-469b-b50c-e9a43c63d725.png)
+![Screenshot from 2022-04-17 23-10-06](https://user-images.githubusercontent.com/70737554/163726070-e3d0f7b5-e9b8-46b3-bafe-e4f803b1a7fb.png)
+![Screenshot from 2022-04-17 23-11-04](https://user-images.githubusercontent.com/70737554/163726094-ef657b89-59cb-480b-bb47-cffd515156e8.png)
 ![Screenshot from 2022-04-17 23-07-46](https://user-images.githubusercontent.com/70737554/163726034-74eaf4d3-adbd-4fc6-b522-dfddd0a4ff89.png)
 ![Screenshot from 2022-04-17 23-07-54](https://user-images.githubusercontent.com/70737554/163726042-22e74648-ff91-46ef-b4b9-1c9f05f6232f.png)
 
 ![Screenshot from 2022-04-17 23-08-00](https://user-images.githubusercontent.com/70737554/163726045-17804e08-b366-4944-bc8e-b0f204386323.png)
+
