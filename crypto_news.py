@@ -38,6 +38,7 @@ class News(commands.Cog):
           i+=1
         elif(i>=10): break
       await ctx.send(embed=embed)
+      await ctx.send("Enter Serial of Choice")
       try:
         msg = await self.client.wait_for('message', timeout=100.0, check=lambda x : x.channel == ctx.channel and x.author == ctx.author)
       except asyncio.TimeoutError:
