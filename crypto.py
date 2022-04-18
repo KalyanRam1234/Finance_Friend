@@ -33,7 +33,7 @@ async def crypto(ctx, name=None, currency=None):
     amount=cryptovalue(name, currency)  
     description="Checkout information about your favorite Cryptocurrency"
     embed= discord.Embed(title="Crypto Information", description=description, color= discord.Color.blue())
-    embed.add_field(name="Price", value=f"{currency} {amount[0]:.2f}", inline=True)
+    embed.add_field(name="Price", value=f"{currency} {amount[0]:.4f}", inline=True)
     if amount[1] is None:
       amount[1]="Unlimited"
     embed.add_field(name="Full From", value=str(amount[7]), inline=True)
